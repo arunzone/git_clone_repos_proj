@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-REPOSITORIES="repos"
+REPOSITORIES="nginx/repos"
 
 while getopts u: option
 do
