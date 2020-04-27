@@ -5,3 +5,4 @@ git clone --recurse-submodules -j8 https://github.com/arunzone/git_clone_repos_p
 
 ## Usage
 ./build.sh -u [username]
+docker-compose up -d
